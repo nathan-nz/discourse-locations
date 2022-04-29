@@ -12,7 +12,9 @@
         {{/link-to}}
       </li>
       <li>
-        <a href="/my/preferences/profile">My Profile</a>
+        {{#link-to "preferences.profile"}}
+          {{i18n 'user.profile'}}
+        {{/link-to}}
       </li>
     </ul>
   </div>
