@@ -1,8 +1,8 @@
-# name: discourse-locations
-# about: Tools for handling locations in Discourse
+# name: Ns-discourse-locations
+# about: Tools for handling locations in Discourse - Forked from The Pavilion
 # version: 6.2.1
 # authors: Angus McLeod, Robert Barrow
-# url: https://github.com/angusmcleod/discourse-locations
+# url: https://github.com/nathan-nz/discourse-locations
 
 enabled_site_setting :location_enabled
 
