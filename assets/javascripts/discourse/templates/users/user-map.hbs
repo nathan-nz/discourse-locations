@@ -1,14 +1,16 @@
+<!--confirmed 25 Jan 2023-->
 <div class="container users-nav">
   <ul class="nav nav-pills">
     <li>
-      {{#link-to "users.index"}}
-        {{i18n 'directory.list.title'}}
-      {{/link-to}}
+      <a href="/badges/132/located" title="List of the folk on the Map">Users List</a>
     </li>
     <li>
       {{#link-to "users.user-map"}}
         {{i18n 'directory.map.title'}}
       {{/link-to}}
+    </li>
+    <li>
+      <a href="/my/preferences/profile" title="Takes you to your profile so that you can add or edit your location">Update My Location</a>
     </li>
   </ul>
 </div>
