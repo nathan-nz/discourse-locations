@@ -3,6 +3,7 @@
 The Locations Plugin allows you to associate geocoded locations with topics, and list topics with locations on a map. Additionally it allows users to record their position (voluntarily) and this can show up on a map of Users in the Users directory.
 
 Forked by nathan-nz to add a button in the user map navigation, which takes the user to their profile.
+Last updated 25 Jan 2023
 
 :page_facing_up: [**Read the documentation**](https://discourse.pluginmanager.org/c/discourse-locations/documentation)
 
